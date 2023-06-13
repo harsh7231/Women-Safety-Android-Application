@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cyb-Her</string>
+    <string name="first_slide_title">Emergency cll</string>
+    <string name="second_slide_title">SOS</string>
+    <string name="third_slide_title">GPS location</string>
+    <string name="fourth_slide_title">Geofencing</string>
+    <string name="first_slide_desc">Most public switched telephone networks[2] have a single emergency telephone number (sometimes known as the universal emergency telephone number or the emergency services number) that allows a caller to contact local emergency services for assistance.</string>
+    <string name="second_slide_desc">An SOS is a signal which indicates to other people that you are in danger and need help quickly.</string>
+    <string name="third_slide_desc">The Global Positioning System (GPS), originally NAVSTAR GPS,[1] is a satellite-based radionavigation system owned by the United States government and operated by the United States Space Force.[2] It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.[3] Obstacles such as mountains and buildings block the relatively weak GPS signals. </string>
+    <string name="forth_slide_desc">Geofencing is a technique of serving smartphone users with ads that are relevant to them, by creating a virtual perimeter or boundary around your business location which notifies users as soon as they enter the boundary. In other words, geofencing can be regarded as a mobile marketing optimization strategy.</string>
+    <string name="success_title">Alert!!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dummy_text">Are you already registered?</string>
+</resources>

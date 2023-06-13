@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimarynew">#00a2ff</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccentnew">#ffcc00</color>
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="colorsuccess">#4BB543</color>
+    <color name="colorwarning">#FFCC00</color>
+    <color name="nav_shadow_color">#FAF390</color>
+    <color name="colorneutral">#434343</color>
+    <color name="colorerror">#CC0000</color>
+    <color name="colortextprimary">#212121</color>
+    <color name="colorred">#F76117</color>
+    <color name="red">#F76117</color>
+    <color name="green">#4BB543</color>
+    <color name="yellow">#FFCC00</color>
+    <color name="card1">#C1C2F7</color>
+    <color name="card2">#DC936C</color>
+    <color name="card3">#BCDE59</color>
+    <color name="card4">#F597CA</color>
+    <color name="color_white">#FDFCF9</color>
+    <color name="header_background">#E2F3BA</color>
+    <color name="home_background">#E4EBF8</color>
+    <color name="banner_background">#F7F0D5</color>
+    <color name="banner_background_light">#F8EAB6</color>
+</resources>
